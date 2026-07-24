@@ -1,9 +1,9 @@
 export const SIGNATURE_DISHES = [
   {
-    name: 'Salty Steer Burger',
-    desc: '2 burgers topped with melty American cheese, crispy bacon bits, grilled jalapenos, crispy onion straws, pickles, BBQ and jalapeno ranch.',
-    price: '$18',
-    img: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=1200&auto=format&fit=crop',
+    name: 'Open Range Buffalo Burger',
+    desc: '2 buffalo burgers topped with grilled huckleberries, onion straws and bacon jam. Served with Steak Fries or Potato Salad.',
+    price: '$24',
+    img: 'images/open-range-buffalo-burger.webp',
   },
   {
     name: 'Prime Ribeye 16oz.',
