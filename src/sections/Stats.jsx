@@ -3,7 +3,7 @@ import ScrollReveal from '../components/ScrollReveal.jsx'
 const STATS = [
   { value: '45', suffix: ' Days', label: 'Average dry-age on our reserve cuts' },
   { value: '900°', suffix: 'F', label: 'Peak hearth temperature, red oak fire' },
-  { value: '3', suffix: ' Yrs', label: 'Serving the same block since 2016' },
+  { value: '3', suffix: ' Yrs', label: 'Serving the same block since 2023' },
   { value: '4.9', suffix: '/5', label: 'Average rating across 2,300+ reviews' },
 ]
 
